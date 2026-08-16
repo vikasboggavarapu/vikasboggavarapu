@@ -1,7 +1,7 @@
 ## Hi there I am Vikas Boggavarapu👋
 
 # 💫 About Me:
-AI Engineer with 1 year of experience on building applications on LLM's,RAG <br> and using modern technologies
+AI Engineer with 1 year of experience on building applications on LLM's,RAG and using modern technologies
 
 
 # 💻 Tech Stack:
